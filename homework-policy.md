@@ -12,7 +12,7 @@
 
 ## Due Dates and Grading
 
-- You will generally be assigned homework every day. Due dates can be found in the [class schedule](https://ga-dc.github.io/wdi<<cohort>>).
+- You will generally be assigned homework every day. Due dates can be found in the [class schedule](https://ga-dc.github.io/wdi13).
 
 - Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
 
