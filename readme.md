@@ -17,7 +17,7 @@ $ node updateCohort.js
 ## Administrative
 
 - **[Graduation Requirements](graduation-requirements.md)**
-- **[Calendar](http://ga-dc.github.io/wdi<<cohort>>/)**
+- **[Calendar](http://ga-dc.github.io/wdi13/)**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [One-on-Ones](one-on-ones.md)
