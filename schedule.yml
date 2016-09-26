@@ -609,8 +609,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Giphy Lab"
-       url: "https://github.com/ga-wdi-exercises/infinite-giphy"
+       title: "Angular Resources"
+       url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: ""
        support: ""
   - day:
@@ -625,13 +625,13 @@
        lead: ""
        support: ""
     - "10:00AM - 12:00PM":
-       title: "Outcomes: Nat Geo Studio Tour"
-       url: "https://github.com/ga-wdi-lessons/angular-resources"
+       title: "Outcomes"
+       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Angular Resources"
-       url: "https://github.com/ga-wdi-lessons/angular-resources"
+       title: "Thanksgiving"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -679,25 +679,35 @@
        support: ""
     - "10:30AM - 5:00PM":
        title: "Project 3 Kickoff"
-       url: "https://github.com/ga-wdi-exercises/project3"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
+    - "10:00AM - 12:30PM":
+       title: "ExpressJS Intro"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Mongo / Mongoose Intro"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
+    - "10:00AM - 12:30PM":
+       title: "Mongoose w/ Express"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "MEAN I"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
+    - "10:00AM - 12:30PM":
+       title: "MEAN II"
+       url: ""
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
@@ -706,18 +716,13 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 12:00PM":
-       title: "Finalize Project 3"
-       url: "https://github.com/ga-wdi-exercises/project3"
+    - "9:00AM - 12:30PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
-    - "12:00PM":
-       title: "Project Due"
-       url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "2:00PM - 4:00 PM":
-       title: "Project Presentations"
+    - "2:30PM - 5:00 PM":
+       title: "Lab"
        url: ""
        lead: ""
        support: ""
