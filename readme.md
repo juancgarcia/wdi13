@@ -17,7 +17,7 @@ $ node updateCohort.js
 ## Administrative
 
 - **[Graduation Requirements](graduation-requirements.md)**
-- **[Calendar](http://ga-dc.github.io/wdi<<cohort>>/)**
+- **[Calendar](http://ga-dc.github.io/wdi13/)**
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
 - [One-on-Ones](one-on-ones.md)
@@ -36,7 +36,7 @@ $ node updateCohort.js
 - [Asking for Help](asking-for-help.md)
 - Slack
   - You have been invited to three different slack teams:
-    - [WDI DC <<cohort>>](https://wdi<<cohort>>dc.slack.com) - Our primary slack team
+    - [WDI DC](https://wdi-dc.slack.com) - Web Development Immersive slack team
       - [#announcements](https://wdi<<cohort>>dc.slack.com/archives/announcements)
       - [#discussion](https://wdi<<cohort>>dc.slack.com/archives/discussion)
     - [GA DC Campus](https://gadc-campus.slack.com) - The DC alumni team
