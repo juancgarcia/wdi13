@@ -17,10 +17,10 @@
     <div class='week' id='{{this._index}}'>
       <h1><a href='#{{this._index}}'>Week {{this._index}}</a></h1>
       {{#each this}}
-	<div class='day' id={{this.yyyymmdd}}>
+	<div class='day' id={{this.yyyymmdd}} data={{this.data}} >
 	  <h2 class='day-header'><a href='#{{this.yyyymmdd}}'>{{this.date}}</a></h2>
 	  {{#each this.day}}
-	    <div class="event">
+	    <div class="event" data={{this.data}}>
 	      {{#if this.url}}
 		<h2 ><a style='color:{{this.color}}' href='{{this.url}}'>{{this.title}}</a></h2>
 	      {{else}}
@@ -54,7 +54,6 @@
   {{/each}}
 </script>
 <div class='events' />
-<script src='js-yaml.min.js'></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment.min.js"></script>
 <script type='text/javascript'>
 var request = new XMLHttpRequest();
@@ -62,10 +61,24 @@ request.open('GET', './data.json', true);
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
     var context = JSON.parse(this.responseText)
+    context = context.map(function(week){
+      return week.map(function(day){
+        day.day = day.day.map(function(event){
+          event.data = encodeURIComponent(JSON.stringify(event))
+          return event
+        })
+        var justTheDay = {}
+        for(var k in day){
+          if(k !== "day")
+            justTheDay[k] = day[k]
+        }
+        day.data = encodeURIComponent(JSON.stringify(justTheDay))
+        return day
+      })
+    })
     var tpl = app.innerHTML
     var template = Handlebars.compile(tpl)
     var html = template({weeks:context})
-    console.log(JSON.stringify(context))
     document.querySelector(".events").innerHTML = html
     if(window.location.hash){
       if(window.location.hash === '#today' ){
@@ -101,8 +114,34 @@ today.onchange = function(event){
   var $event = $(".event");
 
   $container.sortable({
-    connectWith: ".day"
+    connectWith: ".day",
+    receive: function(event, ui){
+      debugger
+    }
   }).disableSelection();
+
+  function jsonHtml(){
+    var context = [];
+    var weeks = document.querySelectorAll(".week");
+    for (var i=0; i<weeks.length; i++){
+      var week = [];
+      week._index = i+1;
+      var day = weeks[i].querySelectorAll(".day")
+      week.push(Array.from(day).map(function(el){
+        var day = JSON.parse(decodeURIComponent(el.getAttribute("data")));
+        day.day = [];
+        var events = el.querySelectorAll(".event");
+        day.day.push(Array.from(events).map(function(e){
+          return JSON.parse(decodeURIComponent(e.getAttribute("data")))
+        }))
+        return day
+      }))
+      context.push(week)
+    }
+    console.log(context);
+  }
+
+  jsonHtml();
 </script>
 </body>
 </html>
