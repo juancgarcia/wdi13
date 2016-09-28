@@ -4,6 +4,9 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
   <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=no'>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <script   src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"   integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="   crossorigin="anonymous"></script>
+
 </head>
 
 <body>
@@ -58,9 +61,11 @@
 <script type='text/javascript'>
 var request = new XMLHttpRequest();
 request.open('GET', './data.json', true);
+var datajson
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
     var context = JSON.parse(this.responseText)
+    datajson = this.responseText
     context = context.map(function(week){
       return week.map(function(day){
         day.day = day.day.map(function(event){
@@ -80,6 +85,8 @@ request.onload = function() {
     var template = Handlebars.compile(tpl)
     var html = template({weeks:context})
     document.querySelector(".events").innerHTML = html
+    test()
+
     if(window.location.hash){
       if(window.location.hash === '#today' ){
         window.location.hash = '#' + moment().format("YYYY-MM-DD")
@@ -106,42 +113,50 @@ function goTo(hash){
 today.onchange = function(event){
   window.location.hash = today.value
 }
-</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script   src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"   integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="   crossorigin="anonymous"></script>
-<script>
-  var $container = $(".day");
-  var $event = $(".event");
+var $container = $(".day");
+var $event = $(".event");
 
-  $container.sortable({
-    connectWith: ".day",
-    receive: function(event, ui){
-      debugger
-    }
-  }).disableSelection();
-
-  function jsonHtml(){
-    var context = [];
-    var weeks = document.querySelectorAll(".week");
-    for (var i=0; i<weeks.length; i++){
-      var week = [];
-      week._index = i+1;
-      var day = weeks[i].querySelectorAll(".day")
-      week.push(Array.from(day).map(function(el){
-        var day = JSON.parse(decodeURIComponent(el.getAttribute("data")));
-        day.day = [];
-        var events = el.querySelectorAll(".event");
-        day.day.push(Array.from(events).map(function(e){
-          return JSON.parse(decodeURIComponent(e.getAttribute("data")))
-        }))
-        return day
-      }))
-      context.push(week)
-    }
-    console.log(context);
+$container.sortable({
+  connectWith: ".day",
+  receive: function(event, ui){
+    debugger
   }
+}).disableSelection();
 
-  jsonHtml();
+function jsonHtml(){
+  var context = [];
+  var weeks = document.querySelectorAll(".week");
+  for (var i=0; i<weeks.length; i++){
+    var week = [];
+    week._index = i+1;
+    var day = weeks[i].querySelectorAll(".day")
+    week.push(Array.from(day).map(function(el){
+      var day = JSON.parse(decodeURIComponent(el.getAttribute("data")));
+      var events = el.querySelectorAll(".event");
+      day.day = Array.from(events).map(function(e){
+        return JSON.parse(decodeURIComponent(e.getAttribute("data")))
+      })
+      return day
+    }))
+    context.push(week[0])
+  }
+  return JSON.stringify(context)
+}
+
+
+function test(){
+  var outjson = jsonHtml()
+  console.log("The ultimate!!!",outjson == datajson)
+  var out = JSON.parse(outjson)
+  var inn = JSON.parse(datajson)
+  console.log("they have the same number of weeks", out.length === inn.length)
+  console.log("the first week has same number of days", out[0].length === inn[0].length)
+  console.log("w1d1 same number of events", out[0][0].day.length === inn[0][0].day.length)
+  console.log("w1d1e1 same title", out[0][0].day[0].title === inn[0][0].day[0].title)
+
+}
+</script>
+<script>
 </script>
 </body>
 </html>
