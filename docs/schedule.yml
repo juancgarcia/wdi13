@@ -9,7 +9,7 @@
     - "2:30PM - 5:00PM":
        title: "CLI"
        url: "https://github.com/ga-wdi-lessons/cli-intro"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM":
@@ -20,17 +20,17 @@
     - "9:00AM - 10:00AM":
        title: "Atom Mini Lesson"
        url: "https://github.com/ga-wdi-lessons/atom-intro"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to Git"
        url: "https://github.com/ga-wdi-lessons/git-intro"
-       lead: " "
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "CSS 1"
        url: "https://github.com/ga-wdi-lessons/css-review"
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "9:00AM":
@@ -41,12 +41,12 @@
     - "9:00 AM - 10:00 AM":
        title: "Git Review"
        url: "#"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "CSS 2"
        url: "https://github.com/ga-wdi-lessons/css-layout/"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30 PM - 5:00PM":
        title: "Outcomes"
@@ -57,7 +57,7 @@
     - "9:00AM - 10:00AM":
        title: "Git 2: mini-lesson"
        url: "https://github.com/ga-wdi-lessons/git-branching-mini-lesson"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: Portfolio Pages"
@@ -78,28 +78,28 @@
     - "9:00AM - 10:00AM":
        title: "PseudoCoding"
        url: "https://github.com/ga-wdi-lessons/pseudocode"
-       lead: ""
+       lead: "James"
        support: ""
     - "10:00AM - 12:30PM":
        title: "JS Intro"
        url: "https://github.com/ga-wdi-lessons/js-intro"
-       lead: ""
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Objects and Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "10:00AM - 12:30PM":
        title: "DOM with jQuery"
        url: "https://github.com/ga-wdi-lessons/jquery-dom.git"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Events and Callbacks"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM":
@@ -113,7 +113,7 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Scope & Closures"
+       title: "Scope & Context"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: ""
        support: ""
@@ -134,8 +134,8 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Problem Modeling & User Stories"
-       url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
+       title: "Lab: ATM"
+       url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -155,30 +155,14 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: ATM"
-       url: "https://github.com/ga-wdi-exercises/atm"
+       title: "Problem Modeling & User Stories"
+       url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
        lead: ""
        support: ""
     - "2:30PM - 04:30PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM":
-       title: "DUE AT 9: Lab"
-       url: "https://github.com/ga-wdi-exercises/atm"
-       lead: ""
-       support: ""
-    - "10:30AM - 12:30PM":
-       title: "OOJS 1"
-       url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
-       lead: ""
-       support: ""
-    - "2:30 - 5:00PM":
-       title: "OOJS 2"
-       url: "https://github.com/ga-wdi-lessons/js-view-constructors"
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "9:00AM - 12:30PM":
@@ -227,6 +211,22 @@
     - "2:30PM - 5:00PM":
        title: "ES6"
        url: "https://github.com/ga-wdi-lessons/es6"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM":
+       title: "DUE AT 9: Lab"
+       url: "https://github.com/ga-wdi-exercises/atm"
+       lead: ""
+       support: ""
+    - "10:30AM - 12:30PM":
+       title: "OOJS 1"
+       url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
+       lead: ""
+       support: ""
+    - "2:30 - 5:00PM":
+       title: "OOJS 2"
+       url: "https://github.com/ga-wdi-lessons/js-view-constructors"
        lead: ""
        support: ""
   - day:
