@@ -3,9 +3,10 @@
 An instructor will be available every Monday, Tuesday and Wednesday between 1:30PM - 2:30PM for 15-minute meetings by appointment.
 
 #### Sign-Up Links
-- []()
-- []()
-- []()
+- [Nayana(Monday)]( https://calendar.google.com/calendar/selfsched?sstoken=UUlnakdPUlJhcWJQfGRlZmF1bHR8ZWI5YmQ4ZTdjMjYzMDJiOThlZmJlNTc5Yzc4NWQ3ZjY)
+- [James(Tuesday)]()
+- [Andy(Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUdkX2JBMEJuNWkyfGRlZmF1bHR8Y2QxMGRmNzg1YmRmZjA1MDI5YWRmNWM3ZjNkODcyZjU)
+
 
 They're a safe space to talk about literally anything. One-on-Ones might include:
 - Code review

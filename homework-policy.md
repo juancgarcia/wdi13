@@ -47,6 +47,8 @@ On **every submission** -- that is, on every pull request (or, sometimes, issue)
 
   > Any thoughts as to why the method on line 49 kept returning 'NaN'?
 
+- Aside from any specific questions, we'll normally just respond with a :+1: if everything looks ok.
+
 ## The Submission Process
 
 All homework assignments will have their own Github repository, under the `ga-wdi-exercises` account.
