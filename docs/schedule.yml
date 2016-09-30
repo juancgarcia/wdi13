@@ -347,9 +347,9 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM":
-       title: "DUE at 9: Landlord /w AR, Emergency Compliment"
-       url: "https://github.com/ga-wdi-exercises/landlord, https://github.com/ga-wdi-exercises/emergency_compliment"
+    - "9:00AM - 10:00AM":
+       title: "Quiz"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -363,9 +363,9 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00PM":
-       title: "Morning Exercise"
-       url: "https://github.com/ga-wdi-exercises/final-countdown"
+    - "9:00AM - 10:00AM":
+       title: "Morning Exercise / Review"
+       url: ""
        lead: ""
        support: ""
     - "9:00AM - 12:30PM":
@@ -379,30 +379,32 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Morning Exercise / Review"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Intro to Rails/Sinatra Port"
        url: "https://github.com/ga-wdi-lessons/porting-sinatra-to-rails"
        lead: ""
        support: ""
-
     - "3:30PM - 5:00PM":
        title: "Outcomes"
        url: ""
        lead: ""
        support: ""
-    - "5:00PM - 9:00AM":
-       title: "HOMEWORK: Chapters 1-5 of 'Getting Started with Rails' Tutorial"
-       url: "https://github.com/ga-wdi-exercises/rails_getting_started"
-       lead: ""
-       support: ""
   - day:
     - "9:00AM":
-       title: "DUE AT 9: Pokenatra, Landlord"
-       url: "https://github.com/ga-wdi-exercises/pokenatra, https://github.com/ga-wdi-exercises/landlord"
+       title: "HW Due"
+       url:
+         - Landlord: https://github.com/ga-wdi-exercises/landlord
+         - Emergency Compliment: https://github.com/ga-wdi-exercises/emergency_compliment"
+         - Rails Tutorial: https://github.com/ga-wdi-exercises/rails_getting_started
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Slips"
+       title: "Morning Exercise / Review"
        url: ""
        lead: ""
        support: ""
@@ -418,8 +420,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Morning Ex: Romanize!"
-       url: "https://github.com/ga-wdi-exercises/romanize"
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
