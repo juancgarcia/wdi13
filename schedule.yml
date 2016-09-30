@@ -34,8 +34,10 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "HW Due: Haiku & Wendy"
-       url: "https://github.com/ga-wdi-exercises/haiku, https://github.com/ga-wdi-exercises/wendy_bite"
+       title: "HW Due"
+       url:
+         - Haiku: https://github.com/ga-wdi-exercises/haiku
+         - Wendy Bite: https://github.com/ga-wdi-exercises/wendy_bite
        lead: ""
        support: ""
     - "9:00 AM - 10:00 AM":
@@ -97,8 +99,10 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "HW Due: Choose Your Own Adventure, JS Calculator"
-       url: "https://github.com/ga-wdi-exercises/choose_your_own_adventure_js, https://github.com/ga-wdi-exercises/js-calculator"
+       title: "HW Due"
+       url:
+         - Choose Your Own Adventure: https://github.com/ga-wdi-exercises/choose_your_own_adventure_js
+         - JS-Calculator: https://github.com/ga-wdi-exercises/js-calculator
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
@@ -306,7 +310,9 @@
   - day:
     - "9:00AM":
        title: "HW Due: HighCard, Landlord"
-       url: "https://github.com/ga-wdi-exercises/high_card, https://github.com/ga-wdi-exercises/landlord_ruby_no_AR"
+       url:
+         - High Card: https://github.com/ga-wdi-exercises/high_card
+         - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
