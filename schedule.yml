@@ -13,7 +13,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "CLI Homework Due"
+       title: "HW Due : To Oz"
        url: "https://github.com/ga-wdi-exercises/to_oz"
        lead: ""
        support: ""
@@ -34,7 +34,7 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "Haiku & Wendy Homework Due"
+       title: "HW Due: Haiku & Wendy"
        url: "https://github.com/ga-wdi-exercises/haiku, https://github.com/ga-wdi-exercises/wendy_bite"
        lead: ""
        support: ""
@@ -54,6 +54,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "HW Due: Fashion Blog"
+       url: "https://github.com/ga-wdi-exercises/fashion-blog"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Git 2: mini-lesson"
        url: "https://github.com/ga-wdi-lessons/git-branching-mini-lesson"
