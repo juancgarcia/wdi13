@@ -4,7 +4,8 @@ An instructor will be available every Monday, Tuesday and Wednesday between 1:30
 
 #### Sign-Up Links
 - [Nayana(Monday)]( https://calendar.google.com/calendar/selfsched?sstoken=UUlnakdPUlJhcWJQfGRlZmF1bHR8ZWI5YmQ4ZTdjMjYzMDJiOThlZmJlNTc5Yzc4NWQ3ZjY)
-- [James(Tuesday)]()
+
+- [James(Tuesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUhNWVBocGxkazdDfGRlZmF1bHR8NjE1YmE1ODUyNGNkNTgwMTg5OGE5MGUxN2MzOTU5MzU)
 - [Andy(Wednesday)](https://calendar.google.com/calendar/selfsched?sstoken=UUdkX2JBMEJuNWkyfGRlZmF1bHR8Y2QxMGRmNzg1YmRmZjA1MDI5YWRmNWM3ZjNkODcyZjU)
 
 

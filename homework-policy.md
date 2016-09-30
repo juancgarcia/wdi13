@@ -20,6 +20,8 @@
 
 - Plagiarized homework will not be accepted.
 
+[Screencast of HW Submission](https://www.youtube.com/watch?v=rVVpmZ05dbE)
+
 > Concerned about what is considered plagiarism? Consult an instructor.
 
 - Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment:
