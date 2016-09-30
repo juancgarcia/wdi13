@@ -435,14 +435,9 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM":
-       title: "Homework Due: Hogwarts"
-       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
-       title: "Review"
-       url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
+       title: "Quiz"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -456,14 +451,9 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM":
-       title: "Lab Due: Game of Thrones"
-       url: "https://github.com/ga-wdi-exercises/game_of_thrones/tree/master"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise: Ceasar Cipher"
-       url: "https://github.com/ga-wdi-exercises/caesar_cipher_rb"
+       title: "Morning Exercise / Review"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -478,8 +468,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Review"
-       url: "https://github.com/ga-wdi-exercises/scribble"
+       title: "Morning Exercise / Review"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -498,6 +488,13 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "HW Due"
+       url:
+         - Hogwarts: https://github.com/ga-wdi-exercises/hogwarts_rails
+         - 2 Model Crud: https://github.com/ga-wdi-exercises/rails-two-model-CRUD
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: ""
