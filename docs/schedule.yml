@@ -96,6 +96,16 @@
        lead: "Nayana"
        support: ""
   - day:
+    - "9:00AM":
+       title: "HW Due: Choose Your Own Adventure, JS Calculator"
+       url: "https://github.com/ga-wdi-exercises/choose_your_own_adventure_js, https://github.com/ga-wdi-exercises/js-calculator"
+       lead: ""
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Quiz"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "DOM with jQuery"
        url: "https://github.com/ga-wdi-lessons/jquery-dom.git"
@@ -108,13 +118,13 @@
        support: ""
   - day:
     - "9:00AM":
-       title: "DUE at 9: Quiz, JS Calculator, Choose Your Own Adventure"
-       url: "https://github.com/ga-wdi-exercises/css_git_JS_quiz, https://github.com/ga-wdi-exercises/js-calculator, https://github.com/ga-wdi-exercises/choose_your_own_adventure_js"
+       title: "DUE AT 9: pixartJS"
+       url: "https://github.com/ga-wdi-exercises/pixart_js"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "https://ga-dc.github.io/slips/"
+       title: "Morning Exercise / Review"
+       url: "https://github.com/ga-wdi-exercises/ttmar"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -128,13 +138,8 @@
        lead: "Andy"
        support: ""
   - day:
-    - "9:00AM":
-       title: "DUE AT 9: pixartJS"
-       url: "https://github.com/ga-wdi-exercises/pixart_js"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise: TTMAR"
+       title: "Morning Exercise / Review"
        url: "https://github.com/ga-wdi-exercises/ttmar"
        lead: ""
        support: ""
@@ -155,8 +160,8 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Review"
-       url: ""
+       title: "Morning Exercise / Review"
+       url: "https://github.com/ga-wdi-exercises/ttmar"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -173,6 +178,11 @@
     - "9:00AM":
        title: "DUE AT 9: Lab"
        url: "https://github.com/ga-wdi-exercises/atm"
+       lead: ""
+       support: ""
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
     - "10:30AM - 12:30PM":
