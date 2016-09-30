@@ -128,7 +128,7 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Morning Exercise / Review"
-       url: "https://github.com/ga-wdi-exercises/ttmar"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -144,7 +144,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Morning Exercise / Review"
-       url: "https://github.com/ga-wdi-exercises/ttmar"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -230,7 +230,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Morning Exercise / Review"
-       url: "https://github.com/ga-wdi-exercises/ttmar"
+       url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -779,9 +779,14 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 12:30PM":
-       title: "Intro to ES6"
-       url: "https://github.com/ga-wdi-lessons/es6-teach-yourself"
+    - "9:00AM - 10:00AM":
+       title: "Morning Exercise / Review"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Websockets"
+       url: "https://github.com/ga-wdi-lessons/websockets-node"
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
@@ -790,23 +795,43 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class: Labor Day"
+    - "9:00AM - 10:00AM":
+       title: "Morning Exercise / Review"
        url: ""
        lead: ""
        support: ""
-  - day:
     - "10:00AM - 12:30PM":
-       title: "React Router"
+       title: "React Lab: Component Extravaganza"
        url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "React with Backend"
+       title: "React Continued"
        url: ""
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Morning Exercise / Review"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "React Router"
+       url: "https://github.com/ga-wdi-exercises/react-omdb"
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00 PM":
+       title: "React with Axios"
+       url: "https://github.com/ga-wdi-exercises/react-omdb"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Morning Exercise / Review"
+       url: ""
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "Algorithms!"
        url: "https://github.com/ga-wdi-lessons/cs-algorithms/"
@@ -823,6 +848,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: ""
+       support: ""
     - "10:00AM - 12:30PM":
        title: "React Lab"
        url: "https://github.com/ga-wdi-exercises/react-omdb"
@@ -835,16 +865,16 @@
        support: ""
   - day:
     - "9:00AM - 5:00PM":
+       title: "Project 4: Kickoff"
+       url: ""
+       lead: ""
+       support: ""
+    - "9:00AM - 5:00PM":
        title: "Prrrrrrroject 4!"
        url: ""
        lead: "You"
        support: ""
   - day:
-    - "11:00AM":
-       title: "D3 Mini Lesson"
-       url: "https://github.com/ga-wdi-lessons/d3-intro"
-       lead: ""
-       support: ""
     - "9:00AM - 5:00PM":
        title: "Prrrrrrroject 4!"
        url: ""
@@ -859,7 +889,7 @@
     - "11:00AM - 12:00PM":
        title: "Instructor AMA"
        url: ""
-       lead: "You"
+       lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
@@ -868,7 +898,7 @@
        lead: "You"
        support: ""
     - "3:30PM - 5:30PM":
-       title: "Preparing for the Technical Interview"
+       title: "Outcomes"
        url: ""
        lead: ""
        support: ""
