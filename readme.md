@@ -9,6 +9,7 @@
 - [One-on-Ones](one-on-ones.md)
 - [Squads](squads.md)
 - [Office Hours](office-hours.md)
+- [Campus Lunches](campus-lunches.md)
 
 ## Curriculum
 
