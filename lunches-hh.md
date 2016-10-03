@@ -1,4 +1,18 @@
-# 10/14: BOWL'D
+# Campus Lunches and Happy Hours
+
+## Happy Hours (5:30p - 7p)
+
+Oct 7th - Week 1 of WDI13
+Oct 14th - End of UXDI9 + Employer HH (public)
+Oct 21st - End of DSI2
+Oct 28th — Mentor HH (Halloween Themed!)
+Nov 4th — LGBTQA HH (public)
+Nov 11th - UXDI10 Week 1
+Nov 18th - DSI3 Week 1
+Dec 2nd - WDI13 Project 3/End of WDI12
+Dec 23rd - End of WDI13
+
+## 10/14: BOWL'D
 Entrée
 
 Grass Fed Steak: (G)(D)(N)(E)(S)
@@ -8,7 +22,7 @@ Tofu††: (G)(D)(N)(E)
 Side
 
 Quinoa And Brown Rice††: (G)(D)(N)(E)(S)
-Vegetable Medley #1††: Broccoli, cabbage, carrot, and baby kale (G)(D)(N)(E)(S)
+Vegetable Medley 1††: Broccoli, cabbage, carrot, and baby kale (G)(D)(N)(E)(S)
 Vegetable Medley 2††: Bell Pepper, mushroom, snow peas, and broccoli (G)(D)(N)(E)(S)
 Vegetable Medley 1†: Broccoli, cabbage, carrot, and baby kale (G)(D)(N)(S)
 Sauce
@@ -22,7 +36,7 @@ Topping
 Fresh Cilantro††: (G)(D)(N)(E)(S)
 Green Onion††: (G)(D)(N)(E)(S)
 
-# 10/21 Pho Cyclo Vietnamese Restaurant
+## 10/21 Pho Cyclo Vietnamese Restaurant
 Entrée
 
 Lemongrass Chicken: Grilled chicken breast marinated with lemongrass seasoning and served with rice (D)(N)(E)(Contains shellfish)
@@ -50,7 +64,7 @@ Radishes††: (G)(D)(N)(E)(S)
 Scallions††: (G)(D)(N)(E)(S)
 
 
-# 11/4: Krazi Kebob
+## 11/4: Krazi Kebob
 Combo Meals
 
 Krazi Kebob Taco Bar:
@@ -86,7 +100,7 @@ Pico de Gallo: A mild chopped tomato salsa
 Sauteed Onions and Peppers:
 Spicy Salad: Cucumbers, carrots, onions, jalapenos, spices and lemon juice
 
-# 11/18 Pita House
+## 11/18 Pita House
 Appetizer
 
 Falafel††: Deep fried vegetable patties made with chickpeas, fava beans, garlic, cumin, and coriander (G)(D)(N)(E)
