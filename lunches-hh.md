@@ -8,9 +8,9 @@ Oct 14th - End of UXDI9 + Employer HH (public)
 
 Oct 21st - End of DSI2
 
-Oct 28th — Mentor HH (Halloween Themed!)
+Oct 28th - Mentor HH (Halloween Themed!)
 
-Nov 4th — LGBTQA HH (public)
+Nov 4th - LGBTQA HH (public)
 
 Nov 11th - UXDI10 Week 1
 
