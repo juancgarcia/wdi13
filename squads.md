@@ -29,7 +29,6 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
  - Jonathan Reiser
  - Rob Romaniw
  - EJ Sorrento
- - Vincent Sweeney
  - Andrew Swinburne
  - Angel Valant
  - Alex Wandres
