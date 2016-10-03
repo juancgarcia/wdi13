@@ -3,13 +3,21 @@
 ## Happy Hours (5:30p - 7p)
 
 Oct 7th - Week 1 of WDI13
+
 Oct 14th - End of UXDI9 + Employer HH (public)
+
 Oct 21st - End of DSI2
+
 Oct 28th — Mentor HH (Halloween Themed!)
+
 Nov 4th — LGBTQA HH (public)
+
 Nov 11th - UXDI10 Week 1
+
 Nov 18th - DSI3 Week 1
+
 Dec 2nd - WDI13 Project 3/End of WDI12
+
 Dec 23rd - End of WDI13
 
 ## 10/14: BOWL'D
