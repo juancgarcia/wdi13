@@ -139,12 +139,12 @@
     - "10:00AM - 12:30PM":
        title: "Scope & Context"
        url: "https://github.com/ga-wdi-lessons/js-scope"
-       lead: "Nayana"
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "DOM review && Debugging"
        url: "https://github.com/ga-wdi-lessons/JS-review-misc"
-       lead: "Andy"
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
