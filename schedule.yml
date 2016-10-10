@@ -133,7 +133,7 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Morning Review"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/js-and-jq-review"
        lead: "James"
        support: ""
     - "10:00AM - 12:30PM":
