@@ -132,9 +132,9 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise / Review"
+       title: "Morning Review"
        url: ""
-       lead: ""
+       lead: "James"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Scope & Context"
@@ -148,14 +148,14 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise / Review"
+       title: "Morning Review"
        url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Problem Modeling & User Stories"
        url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
-       lead: "Andy"
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes"
