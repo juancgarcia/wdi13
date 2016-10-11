@@ -195,6 +195,11 @@
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
