@@ -161,9 +161,9 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Problem Modeling & User Stories"
-       url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
-       lead: "James"
+       title: "Lab: ATM"
+       url: "https://github.com/ga-wdi-exercises/atm"
+       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes"
@@ -185,20 +185,20 @@
        url: "https://ga-dc.github.io/slips/"
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "Lab: ATM"
+    - "10:00AM - 12:00PM":
+       title: "Lab: ATM (Lab is DUE AT 2:30PM)"
        url: "https://github.com/ga-wdi-exercises/atm"
        lead: ""
        support: ""
-    - "2:30PM - 04:30PM":
-       title: "Lab: ATM"
-       url: "https://github.com/ga-wdi-exercises/atm"
-       lead: ""
-       support: ""
-    - "4:30PM - 5:00PM":
+    - "12:00PM - 12:30PM":
        title: "Squad Scrum"
        url: ""
        lead: ""
+       support: ""
+    - "2:30PM - 05:00PM":
+       title: "Problem Modeling & User Stories"
+       url: "https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling"
+       lead: "James"
        support: ""
   - day:
     - "9:00AM - 12:30PM":
@@ -206,7 +206,7 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "2:30AM - 5:00PM":
+    - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
