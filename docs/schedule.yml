@@ -273,12 +273,12 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Ruby"
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -294,7 +294,7 @@
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -305,7 +305,7 @@
     - "10:00AM - 12:30PM":
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes"
@@ -333,7 +333,7 @@
     - "2:30PM - 5:00PM":
        title: "ERDs, Problem-domains, and SQL"
        url: "https://github.com/ga-wdi-lessons/sql-erd"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -344,12 +344,12 @@
     - "10:00AM - 12:30PM":
        title: "Active Record Extravaganza"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Intro to Web/Sinatra"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -360,12 +360,12 @@
     - "10:00AM - 12:30PM":
        title: "Sinatra && REST"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra && Active Record"
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -392,7 +392,7 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Rails/Sinatra Port"
        url: "https://github.com/ga-wdi-lessons/porting-sinatra-to-rails"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "3:30PM - 5:00PM":
        title: "Outcomes"
@@ -416,12 +416,12 @@
     - "10:00AM - 12:30PM":
        title: "Rails Index and Show Features"
        url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Rails New, Create and Delete Features"
        url: "https://github.com/ga-wdi-lessons/rails_features_CRD"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -432,12 +432,12 @@
     - "10:00AM - 12:30PM":
        title: "Rails Edit and Update Features"
        url: "https://github.com/ga-wdi-lessons/rails-features-U-partials"
-       lead: ""
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Rails Validations, Errors, Flash, Sessions"
        url: "https://github.com/ga-wdi-lessons/rails-sessions-flash-validations-errors"
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
