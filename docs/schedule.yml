@@ -240,7 +240,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "OOJS 1"
-       url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
+       url: "https://github.com/ga-wdi-lessons/js-oojs-classes"
        lead: "James"
        support: ""
     - "2:30 - 5:00PM":
