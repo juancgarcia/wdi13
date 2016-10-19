@@ -267,12 +267,12 @@
        url: ""
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM, 2:30PM - 5:00PM":
+    - "10:00AM - 12:30PM":
        title: "JS Review"
        url:
        lead: "James"
        support: "Nayana"
-    - "10:00AM - 12:30PM, 2:30PM - 5:00PM":
+    - "10:00AM - 12:30PM":
        title: "OOJS"
        url: ""
        lead: "Andy"
