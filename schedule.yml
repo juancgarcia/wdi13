@@ -269,10 +269,20 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "JS Review"
+       url: "https://github.com/ga-wdi-exercises/the-jquery-review"
+       lead: "James"
+       support: "Nayana"
+    - "2:30PM - 5:00PM":
+       title: "JS Review"
        url: ""
        lead: "James"
        support: "Nayana"
     - "10:00AM - 12:30PM":
+       title: "OOJS"
+       url: "https://github.com/ga-wdi-lessons/js-oojs-classes"
+       lead: "Andy"
+       support: ""
+    - "2:30M - 5:00PM":
        title: "OOJS"
        url: ""
        lead: "Andy"
