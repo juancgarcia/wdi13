@@ -267,15 +267,15 @@
        url: ""
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "OOJS 1"
-       url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
+    - "10:00AM - 12:30PM, 2:30PM - 5:00PM":
+       title: "JS Review"
+       url:
        lead: "James"
-       support: ""
-    - "2:30 - 5:00PM":
-       title: "OOJS 2"
-       url: "https://github.com/ga-wdi-lessons/js-view-constructors"
-       lead: "James"
+       support: "Nayana"
+    - "10:00AM - 12:30PM, 2:30PM - 5:00PM":
+       title: "OOJS"
+       url: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
