@@ -312,13 +312,13 @@
     - "10:00AM - 12:30PM":
        title: "Intro to Ruby"
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
-       lead: ""
-       support: ""
+       lead: "Andy"
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
-       lead: ""
-       support: ""
+       lead: "Andy"
+       support: "Nayana"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -337,8 +337,8 @@
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: ""
-       support: ""
+       lead: "Nayana"
+       support: "Andy"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -352,8 +352,8 @@
     - "10:00AM - 12:30PM":
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
-       lead: ""
-       support: ""
+       lead: "Nayana"
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Outcomes"
        url: ""
