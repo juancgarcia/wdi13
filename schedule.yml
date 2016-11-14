@@ -612,9 +612,14 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "10:00AM - 10:00AM":
-       title: "Optional Mini-Lesson: Server-side API requests"
-       url: "http://andrewsunglaekim.github.io/Server-side-api-calls-wrapped-in-ruby-classes/"
+    - "10:00AM - 11:00AM":
+       title: "Office Hours"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:00PM - 3:00PM":
+       title: "Optional Mini-Lesson: Devise Gem"
+       url: "https://github.com/ga-wdi-lessons/devise"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -628,8 +633,8 @@
        lead: ""
        support: ""
     - "10:00AM - 11:00AM":
-       title: "Optional Mini-Lesson: Devise Gem"
-       url: "https://github.com/ga-wdi-lessons/devise"
+       title: "Office Hours"
+       url: ""
        lead: ""
        support: ""
     - "11:00AM - 12:00PM":
@@ -645,6 +650,16 @@
     - "9:00AM - 12:30PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+    - "10:00AM - 11:00AM":
+       title: "Optional Mini-Lesson: Server-side API requests"
+       url: "http://andrewsunglaekim.github.io/Server-side-api-calls-wrapped-in-ruby-classes/"
+       lead: ""
+       support: ""
+    - "11:00AM - 12:00PM":
+       title: "Office Hours"
+       url: ""
        lead: ""
        support: ""
     - "2:30PM - 3:30PM":
