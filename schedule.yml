@@ -629,12 +629,12 @@
        support: ""
     - "10:00AM - 11:00AM":
        title: "Optional Mini-Lesson: Devise Gem"
-       url: "https://github.com/ga-wdi-exercises/project2"
+       url: "https://github.com/ga-wdi-lessons/devise"
        lead: ""
        support: ""
     - "11:00AM - 12:00PM":
        title: "Optional Mini-Lesson: Self-referential Associations"
-       url: "https://github.com/ga-wdi-exercises/project2"
+       url: "https://github.com/ga-wdi-lessons/rails-self-referentials"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
