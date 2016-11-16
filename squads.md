@@ -4,10 +4,9 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 
 ## Andy's Squad
 
- - Donovan Allen
- - Travis Batts
+ - Donovan Allen 
  - Juliet Berman
- - Sam Berman
+ - Sam Catherman
  - Bradley Cravens
  - Adrienne Dao
  - Diana Gobar
@@ -15,13 +14,9 @@ Each student will be assigned a squad. Each squad is led by an instructor and wi
 
 ## James' Squad
 
- - Kevin Herrera
- - Stefany Kabatova
+ - Kevin Herrera 
  - Robert King
- - Nyketha Lyken
- - Sam Mans
  - Thinh Nguyen
- - Vanessa Nya
  - Ba Phan
 
 ## Nayana's Squad
