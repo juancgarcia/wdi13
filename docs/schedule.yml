@@ -574,6 +574,9 @@
        url: ""
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM"
+       title: "Office Hours"
+       lead: "Jesse"
   - day:
     - "9:00AM - 12:00PM":
        title: "Finalize Project 2"
