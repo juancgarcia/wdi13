@@ -784,10 +784,6 @@
          - Grumblr Angular: https://github.com/ga-wdi-exercises/grumblr_angular
        lead: ""
        support: ""
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
        title: "Morning Exercise / Review"
        url: ""
@@ -798,9 +794,13 @@
        url: ""
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
+    - "2:30PM - 5:00PM":
        title: "Mongo / Mongoose Intro"
        url: ""
+       lead: ""
+       support: ""
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
        lead: ""
        support: ""
   - day:
@@ -810,12 +810,12 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Mongoose w/ Express"
+       title: "Outcomes"
        url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "MEAN I"
+       title: "Mongoose w/ Express"
        url: ""
        lead: ""
        support: ""
@@ -830,12 +830,12 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "MEAN II"
+       title: "MEAN I"
        url: ""
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
-       title: "Outcomes"
+       title: "MEAN II"
        url: ""
        lead: ""
        support: ""
