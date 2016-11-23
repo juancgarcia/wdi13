@@ -574,6 +574,9 @@
        url: ""
        lead: ""
        support: ""
+    - "6:00PM - 8:00PM"
+       title: "Office Hours"
+       lead: "Jesse"
   - day:
     - "9:00AM - 12:00PM":
        title: "Finalize Project 2"
@@ -671,7 +674,7 @@
        title: "Homework Due: "
        url:
          - OMDB Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
-         - Grumblr Angular: https://github.com/ga-wdi-exercises/grumblr_angular
+         - WDI Radio Lab: https://github.com/ga-wdi-exercises/wdi_radio_lab
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
