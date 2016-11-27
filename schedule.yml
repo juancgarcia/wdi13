@@ -785,8 +785,8 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Quiz"
-       url: ""
+       title: "Mongo"
+       url: "https://github.com/ga-wdi-lessons/mongo-intro"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
@@ -795,7 +795,7 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Mongo / Mongoose Intro"
+       title: "Mongoose Intro"
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: ""
        support: ""
@@ -805,7 +805,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise / Review"
+       title: "Quiz"
        url: ""
        lead: ""
        support: ""
