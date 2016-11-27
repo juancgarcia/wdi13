@@ -785,7 +785,7 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise / Review"
+       title: "Quiz"
        url: ""
        lead: ""
        support: ""
@@ -852,7 +852,7 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Quiz"
+       title: "Morning Exercise/Review"
        url: ""
        lead: ""
        support: ""
