@@ -831,12 +831,12 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "MEAN I"
-       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
+       url: "https://github.com/ga-wdi-lessons/mean-intro"
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
        title: "MEAN II"
-       url: "https://github.com/ga-wdi-lessons/deploy-MEAN-app"
+       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
