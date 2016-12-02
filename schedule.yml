@@ -882,6 +882,16 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
+    - "10:00AM - 11:30AM":
+       title: "Git Team Workflow"
+       url: "https://github.com/ga-wdi-lessons/git-teams"
+       lead: "Nayana"
+       support: ""
+    - "2:00PM - 3:00PM":
+       title: "Custom Directives"
+       url: "https://github.com/ga-wdi-lessons/angular-custom-directives-abridged"
+       lead: "Nayana"
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -892,6 +902,11 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
+    - "10:00AM - 11:00AM":
+       title: "Google Maps"
+       url: ""
+       lead: "Andy"
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -901,6 +916,11 @@
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
+       support: ""
+    - "10:00AM - 11:00AM":
+       title: "DIY jQuery Plugins"
+       url: "https://github.com/ga-wdi-lessons/jquery-plugins"
+       lead: "James"
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
