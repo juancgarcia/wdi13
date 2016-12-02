@@ -785,18 +785,18 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise / Review"
-       url: ""
+       title: "Mongo"
+       url: "https://github.com/ga-wdi-lessons/mongo-intro"
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "ExpressJS Intro"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/express-intro"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Mongo / Mongoose Intro"
-       url: ""
+       title: "Mongoose Intro"
+       url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -805,7 +805,7 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Morning Exercise / Review"
+       title: "Quiz"
        url: ""
        lead: ""
        support: ""
@@ -816,7 +816,7 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Mongoose w/ Express"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/express-mongoose"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -831,12 +831,12 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "MEAN I"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/mean-intro"
        lead: ""
        support: ""
     - "3:30PM - 5:00PM":
        title: "MEAN II"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -852,18 +852,18 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Quiz"
+       title: "Morning Exercise/Review"
        url: ""
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/mean-lab"
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/mean-lab"
        lead: ""
        support: ""
   - day:
