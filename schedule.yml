@@ -922,6 +922,11 @@
        url: "https://github.com/ga-wdi-lessons/jquery-plugins"
        lead: "James"
        support: ""
+    - "3:30PM - 5:00PM":
+       title: "Outcomes: Interviews & Negotiation"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ean1416jej6g"
+       lead: "Sarah and Joy"
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -952,6 +957,11 @@
        title: "React Intro"
        url: "https://github.com/ga-wdi-lessons/react-intro"
        lead: ""
+       support: ""
+    - "5:00PM - 7:00 PM":
+       title: "Outcomes: Employer Happy Hour"
+       url: ""
+       lead: "Sarah and Joy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -1010,9 +1020,9 @@
        lead: "You"
        support: ""
     - "3:30PM - 5:30 PM":
-       title: "Outcomes Open Office Hours"
-       url: ""
-       lead: ""
+       title: "Outcomes: Tech Interview"
+       url: "https://docs.google.com/document/d/1dTtTYLM6Ev6XUvmWm4iuxhC-wTMuTllqXR2CNoDJ_Ik/edit#heading=h.ocqgm28l81uu"
+       lead: "Sarah and Joy"
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
@@ -1077,9 +1087,9 @@
        lead: "You"
        support: ""
     - "3:30PM - 5:30PM":
-       title: "Outcomes"
+       title: "Outcomes: Small Groups"
        url: ""
-       lead: ""
+       lead: "Sarah and Joy"
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
