@@ -961,13 +961,13 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "React Lab: Component Extravaganza"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/component-extravaganza"
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
        title: "React Continued"
-       url: ""
-       lead: ""
+       url: "https://github.com/ga-wdi-lessons/react-continued"
+       lead: "Andy"
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
@@ -980,14 +980,14 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "React Router"
-       url: "https://github.com/ga-wdi-exercises/react-omdb"
-       lead: ""
+       title: "React To-Do App Walkthrough"
+       url: "https://github.com/ga-wdi-lessons/react_todo_walkthrough"
+       lead: "James"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "React with Axios"
-       url: "https://github.com/ga-wdi-exercises/react-omdb"
-       lead: ""
+       title: "React To-Do App Walkthrough Pt 2"
+       url: "https://github.com/ga-wdi-lessons/react_todo_walkthrough"
+       lead: "James"
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
@@ -1002,7 +1002,7 @@
     - "10:00AM - 12:30PM":
        title: "Algorithms!"
        url: "https://github.com/ga-wdi-lessons/cs-algorithms/"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 3:30 PM":
        title: "Portfolio Development Lab Time"
@@ -1108,8 +1108,8 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Project 4!"
+    - "End of File O'clock":
+       title: "End of File"
        url: ""
-       lead: "You"
+       lead: "End of file"
        support: ""
