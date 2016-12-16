@@ -1072,8 +1072,8 @@
        lead: "You"
        support: ""
     - "11:00AM - 12:00PM":
-       title: "Instructor AMA"
-       url: "https://github.com/ga-wdi-exercises/project4/issues"
+       title: ""
+       url: ""
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -1088,7 +1088,7 @@
        support: ""
     - "3:30PM - 5:30PM":
        title: "Outcomes: Small Groups"
-       url: "https://github.com/ga-wdi-exercises/project4/issues"
+       url: ""
        lead: "Sarah and Joy"
        support: ""
     - "6:00PM - 8:00PM":
