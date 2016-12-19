@@ -1125,25 +1125,25 @@
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "Prep at home!"
+       title: "Prep at GA or home!"
        url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "Prep at home!"
+       title: "Prep at GA or home!"
        url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "Prep at home!"
+       title: "Prep at GA or home!"
        url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "Prep at home!"
+       title: "Prep at GA or home!"
        url: ""
        lead: ""
        support: ""
@@ -1155,30 +1155,30 @@
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "Prep at home!"
+       title: "Prep at GA or home!"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "2:30PM - 5:00PM":
+       title: "Peer Portfolio Review"
        url: ""
        lead: ""
        support: ""
   - day:
     - "9:00AM - 5:00PM":
-       title: "Prep at home!"
+       title: "Prep at GA or home!"
        url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Prep at home!"
+    - "10:00AM - 3:30PM":
+       title: "Outcomes Bootcamp"
        url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "Prep at home!"
-       url: ""
-       lead: ""
-       support: ""
-  - day:
-    - "End of File O'clock":
+    - "End of File Bug-appease O'clock":
        title: "End of File"
        url: ""
        lead: "End of file"
